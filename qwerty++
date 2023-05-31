@@ -8,6 +8,11 @@ Amphetype app/page/programme
 Type Fu
 Keyzen
 
+most common English 2-grams (digrams), in order of frequency of usage:
+th, he, in, en, nt, re, er, an, ti, es, on, at, se, nd, or, ar, al, te, co, de, to, ra, et, ed, it, sa, em, ro
+And here are the most common 3-grams (trigrams), in order of frequency of usage: the, and, tha, ent, ing, ion, tio, for, nde, has, nce, edt, tis, oft, sth, men
+
+
 add custom training sets:
 
 th, he, in, en, nt, re, er, an, ti, es, on, at, se, nd, or, ar, al, te, co, de, to, ra, et, ed, it, sa, em, ro
